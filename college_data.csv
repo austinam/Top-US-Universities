@@ -1,0 +1,151 @@
+Rank, Name, Location, Acceptance Rate, In-state Tuition, Out-of-State Tuition, Enrollment-undergrad, Median Income-2 years, Student:Faculty
+1,Stanford University,Stanford  CA,5%,47940,47940,7034,71800,10
+2,Massachusetts Institute of Technology,Cambridge  MA,8%,48452,48452,4476,79800,3
+3,Harvard University,Cambridge  MA,5%,47074,47074,7151,69700,7
+4,Yale University,New Haven  CT,6%,49480,49480,5469,60700,6
+5,Rice University,Houston  TX,15%,43918,43918,3836,54200,6
+6,Princeton University,Princeton  NJ,7%,45320,45320,5251,58300,5
+7,University of Pennsylvania,Philadelphia  PA,9%,51464,51464,10468,67500,6
+8,Brown University,Providence  RI,9%,51366,51366,6565,49600,7
+9,Bowdoin College,Brunswick  ME,15%,49900,49900,1801,42300,9
+10,California Institute of Technology,Pasadena  CA,8%,47577,47577,979,65100,3
+11,Columbia University,New York  NY,7%,55056,55056,7552,65100,6
+12,Duke University,Durham  NC,11%,53744,53744,6577,68800,7
+13,Vanderbilt University,Nashville  TN,11%,45610,45610,6817,52000,8
+14,Washington University in St. Louis,Saint Louis  MO,17%,49770,49770,6915,53800,8
+15,Dartmouth College,Hanover  NH,11%,51438,51438,4270,54700,7
+16,University of Notre Dame,Notre Dame  IN,19%,49685,49685,8514,56800,10
+17,University of Chicago,Chicago  IL,8%,53649,53649,5978,54600,6
+18,Pomona College,Claremont  CA,9%,49352,49352,1556,36300,7
+19,University of Southern California,Los Angeles  CA,17%,52283,52283,18195,52800,9
+20,Cornell University,Ithaca  NY,14%,50953,50953,14556,60000,9
+21,Northwestern University,Evanston  IL,11%,50855,50855,8298,57300,7
+22,Tufts University,Medford  MA,14%,52430,52430,5435,50600,8
+23,University of Michigan - Ann Arbor,Ann Arbor  MI,29%,14402,45410,27969,49600,12
+24,Georgetown University,Washington  DC,17%,50547,50547,7056,61900,11
+25,Carleton College,Northfield  MN,23%,50874,50874,2087,36400,9
+26,Colorado State University,Fort Collins  CO,78%,11052,28346,21977,34700,18
+27,Harvey Mudd College,Claremont  CA,13%,52666,52666,829,65200,8
+28,Emory University,Atlanta  GA,25%,47954,47954,6714,53200,9
+29,Middlebury College,Middlebury  VT,16%,50063,50063,2506,41600,8
+30,Carnegie Mellon University,Pittsburgh  PA,22%,52310,52310,6069,67200,10
+31,Washington & Lee University,Lexington  VA,24%,67150,67150,1824,46700,8
+32,Swarthmore College,Swarthmore  PA,13%,49104,49104,1542,33700,8
+33,University of Virginia,Charlottesville  VA,30%,16412,45756,15476,48300,15
+34,Barnard College,New York  NY,15%,50394,50394,2461,44100,10
+35,University of San Francisco,San Francisco  CA,71%,44494,44494,6450,47000,14
+36,Georgia Institute of Technology,Atlanta  GA,26%,12212,32404,13815,61800,20
+37,University of California - Los Angeles,Los Angeles  CA,18%,12920,39602,30343,41900,17
+38,Wake Forest University,Winston-Salem  NC,30%,49308,49308,4900,47700,10
+39,Haverford College,Haverford  PA,21%,51259,51259,1268,35400,8
+40,Virginia Tech,Blacksburg  VA,71%,12852,29975,25213,46600,14
+41,University of North Carolina at Chapel Hill,Chapel Hill  NC,27%,8834,33916,17869,39700,13
+42,Amherst College,Amherst  MA,14%,52476,52476,1849,42300,8
+43,Colby College,Waterville  ME,19%,50960,50960,1879,41800,10
+44,Davidson College,Davidson  NC,20%,48376,48376,1796,41700,10
+45,Colgate University,Hamilton  NY,29%,51955,51955,2864,45100,9
+46,University of Texas - Austin,Austin  TX,40%,10092,35682,37234,43100,18
+47,Lehigh University,Bethlehem  PA,26%,48320,48320,5003,64100,9
+48,Wellesley College,Wellesley  MA,28%,50840,50840,2347,39700,7
+49,Williams College,Williamstown  MA,18%,51790,51790,2058,39800,6
+50,Northeastern University,Boston  MA,29%,47653,47653,13444,51800,14
+51,Bates College,Lewiston  ME,23%,50310,50310,1780,40800,10
+52,University of Richmond,University of Richmond  VA,32%,49420,49420,3078,42900,8
+53,New York University,New York  NY,32%,49062,49062,24888,46800,10
+54,Johns Hopkins University,Baltimore  MD,13%,52170,52170,5621,62700,10
+55,Boston College,Chestnut Hill  MA,31%,51296,51296,9647,55500,14
+56,Wesleyan University,Middletown  CT,18%,50912,50912,2918,37700,8
+57,Hamilton College,Clinton  NY,26%,66170,66170,1868,45100,9
+58,College of William & Mary,Williamsburg  VA,37%,16370,37425,6209,42200,12
+59,University of Wisconsin,Madison  WI,53%,10488,32738,28577,42300,18
+60,University of Rochester,Rochester  NY,36%,51090,51090,6170,42200,10
+61,University of Illinois at Urbana-Champaign,Champaign  IL,60%,15058,30680,32540,44200,20
+62,University of Florida,Gainesville  FL,46%,6381,28659,31014,40400,20
+63,Colorado School of Mines,Golden  CO,40%,17842,36172,4395,67000,15
+64,Reed College,Portland  OR,31%,52150,52150,1379,27400,9
+65,Scripps College,Claremont  CA,30%,50982,50982,1030,37500,11
+66,Case Western Reserve University,Cleveland  OH,35%,47074,47074,4990,58300,11
+67,Grinnell College,Grinnell  IA,20%,48758,48758,1658,31200,9
+68,University of Georgia,Athens  GA,54%,9364,27574,26328,37700,18
+69,Bucknell University,Lewisburg  PA,30%,51960,51960,3530,56400,9
+70,Smith College,Northampton  MA,37%,47904,47904,2503,32500,9
+71,Bryn Mawr College,Bryn Mawr  PA,40%,48790,48790,1361,38900,8
+72,Rensselaer Polytechnic Institute,Troy  NY,44%,51000,51000,6200,63100,13
+73,Tulane University,New Orleans  LA,26%,51010,51010,6487,44100,8
+74,College of the Holy Cross,Worcester  MA,38%,49980,49980,2689,47500,10
+75,Lafayette College,Easton  PA,28%,49635,49635,2505,54400,10
+76,Texas A&M University,College Station  TX,67%,11036,31214,45091,46300,21
+77,Purdue University,West Lafayette  IN,56%,10002,28804,29309,43000,12
+78,Macalester College,Saint Paul  MN,37%,50639,50639,2108,30000,10
+79,Pitzer College,Claremont  CA,14%,51964,51964,1029,31700,11
+80,Franklin & Marshall College,Lancaster  PA,36%,54280,54280,2225,41400,9
+81,Penn State,University Park  PA,56%,17900,32382,40139,38600,16
+82,University of California - Santa Barbara,Santa Barbara  CA,36%,14073,40755,21199,36000,18
+83,Ohio State University,Columbus  OH,54%,10037,28229,41862,36000,19
+84,Brigham Young University,Provo  UT,51%,5300,5300,28012,39200,21
+85,University of Minnesota - Twin Cities,Minneapolis  MN,44%,14488,26674,29566,40000,17
+86,Boston University,Boston  MA,29%,50240,50240,16628,46700,10
+87,University of Miami,Coral Gables  FL,38%,47004,47004,10164,46300,12
+88,Mount Holyoke College,South Hadley  MA,52%,45866,45866,2162,31600,10
+89,Colorado College,Colorado Springs  CO,16%,50892,50892,2084,30500,10
+90,Michigan State University,East Lansing  MI,66%,14516,39461,35447,39800,17
+91,University of Tulsa,Tulsa  OK,40%,40484,40484,3478,37800,11
+92,University of Washington,Seattle  WA,45%,10753,34791,28380,42800,17
+93,Stevens Institute of Technology,Hoboken  NJ,39%,52394,52394,3108,65600,10
+94,Worcester Polytechnic Institute,Worcester  MA,48%,46994,46994,4275,65400,13
+95,Southern Methodist University,Dallas  TX,49%,50358,50358,6296,48400,11
+96,University of Maryland - College Park,College Park  MD,48%,10181,32045,26350,45500,17
+97,North Carolina State University,Raleigh  NC,48%,8880,26399,20951,39000,13
+98,The Cooper Union for the Advancement of Science and Art,New York  NY,15%,43850,43850,863,42100,9
+99,Villanova University,Villanova  PA,44%,50554,50554,6469,59100,12
+100,Clemson University,Clemson  SC,51%,14708,34590,17883,40600,18
+101,Santa Clara University,Santa Clara  CA,48%,49233,49233,5353,53600,11
+102,University of California - Davis,Davis  CA,42%,14046,40728,28564,37600,20
+103,Kenyon College,Gambier  OH,27%,51200,51200,1689,35300,9
+104,Rose-Hulman Institute of Technology,Terre Haute  IN,61%,46210,46210,2180,68000,12
+105,Whitman College,Walla Walla  WA,51%,47862,47862,1453,31400,8
+106,Skidmore College,Saratoga Springs  NY,29%,50834,50834,2643,37000,8
+107,Michigan Technological University,Houghton  MI,76%,14634,30968,5446,52600,12
+108,Vassar College,Poughkeepsie  NY,27%,53090,53090,2405,34300,8
+109,Indiana University - Bloomington,Bloomington  IN,79%,10534,34846,32005,38000,17
+110,St. Olaf College,Northfield  MN,45%,44180,44180,2990,37100,12
+111,University of Pittsburgh,Pittsburgh  PA,55%,18618,29758,18163,37600,15
+112,Bentley University,Waltham  MA,46%,45760,45760,4140,62200,12
+113,Gettysburg College,Gettysburg  PA,43%,50860,50860,2378,41300,9
+114,Florida State University,Tallahassee  FL,58%,6516,21683,29281,35000,24
+115,Illinois Wesleyan University,Bloomington  IL,58%,44142,44142,1766,39000,10
+116,Yeshiva University,New York  NY,51%,40670,40670,2628,39200,8
+117,Wheaton College - Illinois,Wheaton  IL,79%,34050,34050,2400,33300,11
+118,Brandeis University,Waltham  MA,33%,51245,51245,3591,40000,10
+119,University of California - San Diego,La Jolla  CA,36%,13645,40327,27386,39600,19
+120,Trinity University - Texas,San Antonio  TX,41%,41344,41344,2250,43100,8
+121,Loyola Marymount University,Los Angeles  CA,54%,44480,44480,6044,43400,10
+122,University of Iowa,Iowa City  IA,84%,8973,29755,20868,40300,15
+123,University of Delaware,Newark  DE,70%,12830,32250,17761,43900,15
+124,Lawrence University,Appleton  WI,63%,44844,44844,1503,28700,9
+125,Denison University,Granville  OH,44%,49310,49310,2259,35400,9
+126,Babson College,Wellesley  MA,25%,48288,48288,2283,66900,11
+127,Occidental College,Los Angeles  CA,46%,51070,51070,1952,34300,10
+128,Oberlin College,Oberlin  OH,28%,52002,52002,2869,26400,9
+129,Iowa State University,Ames  IA,87%,8219,21583,28872,39100,19
+130,George Washington University,Washington  DC,40%,51950,51950,10430,51400,13
+131,Rhode Island School of Design,Providence  RI,34%,47110,47110,1999,37200,9
+132,College of Wooster,Wooster  OH,58%,46860,46860,1983,31100,11
+133,University of Massachusetts - Amherst,Amherst  MA,60%,14971,32204,21460,38800,18
+134,Rutgers University,New Brunswick  NJ,57%,14372,30023,34020,42400,15
+135,California Polytechnic State University - San Luis Obispo,San Luis Obispo  CA,29%,9075,20235,19703,48600,21
+136,University of Dayton,Dayton  OH,60%,40940,40940,7873,42900,15
+137,Pepperdine University,Malibu  CA,37%,50022,50022,3222,45300,13
+138,Syracuse University,Syracuse  NY,52%,45022,45022,14607,43400,15
+139,Wabash College,Crawfordsville  IN,63%,41050,41050,842,40600,9
+140,University of Oklahoma,Norman  OK,71%,10881,25203,18444,39800,18
+141,Butler University,Indianapolis  IN,73%,38360,38360,4199,42400,11
+142,Union College - New York,Schenectady  NY,37%,51696,51696,2132,45000,10
+143,University of California - Irvine,Irvine  CA,41%,13360,40042,26889,38500,18
+144,Kansas State University,Manhattan  KS,94%,9874,24775,17699,36200,18
+145,University of Oregon,Eugene  OR,78%,11571,34611,18330,32900,17
+146,Augustana University,Sioux Falls  SD,69%,30454,30454,1574,36200,10
+147,Miami University,Oxford  OH,65%,14736,32555,16434,36000,15
+148,Sewanee - The University of the South,Sewanee  TN,44%,42400,42400,1718,32800,10
+149,Auburn University,Auburn  AL,81%,10696,28840,20396,37500,19
+150,American University,Washington  DC,26%,44853,44853,7544,43800,12
